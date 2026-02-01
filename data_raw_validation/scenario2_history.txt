@@ -1,0 +1,343 @@
+﻿Battery History (0% used, 3868 used of 512KB, 34 strings using 2482):
+                    0 (10) RESET:TIME: 2026-01-31-01-44-02
+                    0 (2) 100 status=discharging health=good plug=none temp=230 volt=4319 charge=1 +running +wake_lock +wifi_radio +phone_scanning +screen phone_state=out +wifi_running +wifi +usb_data wifi_signal_strength=3 wifi_suppl=completed +camera +ble_scan top=1000:"<redacted>"
+                    0 (2) 100 user=0:"<redacted>"
+                    0 (2) 100 userfg=0:"<redacted>"
+                +13ms (2) 100 -usb_data stats=0:"<redacted>"
+             +1s327ms (1) 100 -camera
+             +1s437ms (1) 100 +camera
+             +2s033ms (1) 100 +wifi_scan -camera
+             +5s092ms (1) 100 -wifi_scan
+             +9s675ms (2) 100 pkgactive=<uid>:"<redacted>"
+            +11s485ms (2) 100 brightness=dim
+            +11s517ms (2) 100 brightness=medium
+            +11s567ms (2) 100 brightness=light
+            +21s733ms (2) 100 pkgactive=<uid>:"<redacted>"
+            +22s494ms (2) 100 +job=<uid>:"<redacted>"
+            +22s561ms (2) 100 -job=<uid>:"<redacted>"
+            +22s579ms (2) 100 +job=<uid>:"<redacted>"
+            +22s637ms (2) 100 -job=<uid>:"<redacted>"
+            +27s419ms (2) 100 +job=<uid>:"<redacted>"
+            +27s516ms (2) 100 -job=<uid>:"<redacted>"
+            +27s546ms (2) 100 -top=1000:"<redacted>"
+            +27s546ms (2) 100 +top=<uid>:"<redacted>"
+            +28s867ms (2) 100 -top=<uid>:"<redacted>"
+            +28s867ms (2) 100 +top=<uid>:"<redacted>"
+            +29s605ms (2) 100 pkgactive=<uid>:"<redacted>"
+            +32s471ms (1) 100 +video
+            +32s672ms (1) 100 -video
+            +34s476ms (2) 100 -top=<uid>:"<redacted>"
+            +34s476ms (2) 100 +top=<uid>:"<redacted>"
+            +35s515ms (1) 100 +video
+            +35s646ms (1) 100 -video
+            +35s898ms (2) 100 +audio +video
+            +53s914ms (2) 100 -audio
+            +56s828ms (2) 100 +audio
+          +1m02s110ms (2) 100 temp=250 volt=4105 charge=17
+          +1m14s708ms (2) 100 -audio
+          +1m19s728ms (2) 100 +audio wifi_signal_strength=2
+          +1m22s982ms (1) 100 wifi_signal_strength=3
+          +1m37s708ms (2) 100 -audio
+          +1m40s009ms (2) 100 +audio
+          +1m57s886ms (2) 100 -audio
+          +2m02s172ms (2) 100 temp=260 volt=4133 charge=27
+          +2m03s666ms (2) 100 +audio
+          +2m18s123ms (2) 100 -audio -video
+          +2m19s564ms (2) 100 +audio +video
+          +2m38s600ms (2) 100 -audio -video
+          +2m42s933ms (2) 100 +audio +video
+          +2m50s898ms (1) 100 wifi_signal_strength=2
+          +2m52s270ms (2) 100 -audio
+          +2m52s328ms (2) 100 +audio
+          +2m53s936ms (1) 100 wifi_signal_strength=3
+          +3m00s186ms (2) 100 pkgactive=<uid>:"<redacted>"
+          +3m00s197ms (2) 100 pkgactive=<uid>:"<redacted>"
+          +3m02s224ms (2) 100 volt=4055 charge=38
+          +3m10s228ms (2) 100 -audio
+          +3m10s277ms (2) 100 +audio
+          +3m28s169ms (2) 100 -audio
+          +3m28s215ms (2) 100 +audio
+          +3m46s109ms (2) 100 -audio
+          +3m46s152ms (2) 100 +audio
+          +4m04s049ms (2) 100 -audio
+          +4m04s090ms (2) 100 +audio
+          +4m18s844ms (2) 100 temp=270 charge=52
+          +4m39s890ms (2) 100 -audio
+          +4m39s942ms (2) 100 +audio
+          +4m57s830ms (2) 100 -audio
+          +4m57s870ms (2) 100 +audio
+          +5m15s773ms (2) 100 -audio
+          +5m15s815ms (2) 100 +audio
+          +5m18s900ms (1) 100 charge=63
+          +5m33s716ms (2) 100 -audio
+          +5m33s757ms (2) 100 +audio
+          +5m51s651ms (2) 100 -audio
+          +5m51s691ms (2) 100 +audio
+          +6m09s595ms (2) 100 -audio
+          +6m09s631ms (2) 100 +audio
+          +6m18s964ms (1) 100 charge=73
+          +6m27s531ms (2) 100 -audio
+          +6m27s572ms (2) 100 +audio
+          +7m03s371ms (2) 100 -audio
+          +7m03s417ms (2) 100 +audio
+          +7m18s983ms (1) 100 charge=84
+          +7m24s301ms (2) 100 -wifi_radio stats=0:"<redacted>"
+          +7m25s376ms (2) 100 +wifi_radio wakeupap=<uid>:"<redacted>"
+          +7m25s385ms (2) 100 stats=0:"<redacted>"
+          +7m39s212ms (2) 100 -audio
+          +7m39s254ms (2) 100 +audio
+          +7m44s267ms (2) 100 -wifi_radio stats=0:"<redacted>"
+          +7m45s370ms (2) 100 +wifi_radio wakeupap=<uid>:"<redacted>"
+          +7m45s380ms (2) 100 stats=0:"<redacted>"
+          +8m17s655ms (1) 100 +wifi_scan
+          +8m20s138ms (1) 100 -wifi_scan
+          +8m29s026ms (2) 100 pkgactive=<uid>:"<redacted>"
+          +8m32s952ms (2) 100 -audio
+          +8m32s979ms (2) 100 +audio
+          +8m50s893ms (2) 100 -audio
+          +8m50s935ms (2) 100 +audio
+          +9m03s845ms (1) 100 wifi_signal_strength=2
+          +9m06s886ms (1) 100 wifi_signal_strength=3
+          +9m08s833ms (2) 100 -audio
+          +9m08s873ms (2) 100 +audio
+          +9m31s275ms (2) 100 temp=280 charge=108
+         +10m08s874ms (2) 100 +longwake=<uid>:"<redacted>"
+         +10m31s335ms (1) 100 charge=118
+         +11m02s124ms (1) 100 wifi_signal_strength=2
+         +11m10s439ms (1) 100 wifi_signal_strength=3
+         +11m14s217ms (3) 100 -audio -longwake=<uid>:"<redacted>"
+         +11m14s256ms (2) 100 +audio
+         +11m23s386ms (1) 100 wifi_signal_strength=2
+         +11m29s458ms (1) 100 wifi_signal_strength=3
+         +11m31s395ms (2) 100 charge=129 -audio
+         +11m32s213ms (2) 100 +audio
+         +11m50s094ms (2) 100 -audio
+         +11m50s152ms (3) 100 -wifi_radio +audio stats=0:"<redacted>"
+         +11m55s369ms (2) 100 +wifi_radio wakeupap=<uid>:"<redacted>"
+         +11m55s378ms (2) 100 stats=0:"<redacted>"
+         +12m02s805ms (1) 100 wifi_signal_strength=2
+         +12m08s034ms (2) 100 -audio
+         +12m08s092ms (2) 100 +audio
+         +12m24s050ms (1) 100 wifi_signal_strength=3
+         +12m25s996ms (2) 100 -audio
+         +12m26s053ms (2) 100 +audio
+         +12m43s934ms (2) 100 -audio
+         +12m43s993ms (2) 100 +audio
+         +12m55s430ms (1) 100 charge=144
+         +13m01s874ms (2) 100 -audio
+         +13m01s934ms (2) 100 +audio
+         +13m17s911ms (2) 100 +job=<uid>:"<redacted>"
+         +13m17s956ms (2) 100 -job=<uid>:"<redacted>"
+         +13m19s813ms (2) 100 -audio
+         +13m19s859ms (2) 100 +audio
+         +13m37s755ms (2) 100 -audio
+         +13m37s814ms (2) 100 +audio
+         +13m44s198ms (2) 100 -wifi_radio stats=0:"<redacted>"
+         +13m45s366ms (2) 100 +wifi_radio wakeupap=<uid>:"<redacted>"
+         +13m45s381ms (2) 100 stats=0:"<redacted>"
+         +13m55s695ms (2) 100 -audio
+         +13m55s754ms (2) 100 +audio
+         +14m13s635ms (2) 100 -audio
+         +14m13s694ms (2) 100 +audio
+         +14m31s596ms (2) 100 -audio
+         +14m31s654ms (2) 100 +audio
+         +14m37s824ms (1) 100 +wifi_scan
+         +14m40s298ms (1) 100 -wifi_scan
+         +14m45s426ms (2) 100 volt=4032 charge=163
+         +14m49s535ms (2) 100 -audio
+         +14m49s595ms (2) 100 +audio
+         +15m07s495ms (2) 100 -audio
+         +15m07s555ms (2) 100 +audio
+         +15m25s455ms (2) 100 -audio
+         +15m25s514ms (2) 100 +audio
+         +15m32s238ms (2) 100 -wifi_radio stats=0:"<redacted>"
+         +15m35s367ms (2) 100 +wifi_radio wakeupap=<uid>:"<redacted>"
+         +15m35s379ms (2) 100 stats=0:"<redacted>"
+         +15m43s415ms (2) 100 -audio
+         +15m43s475ms (2) 100 +audio
+         +15m54s001ms (2) 099 temp=290 charge=176
+                 Details: cpu=584860u+423610s
+                          /proc/stat=596720 usr, 397320 sys, 59560 io, 0 irq, 9700 sirq, 6024500 idle (<pkg>% of 19h 41m 18s 0ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+         +15m54s020ms (2) 099 stats=0:"<redacted>"
+         +16m01s356ms (2) 099 -audio
+         +16m01s417ms (2) 099 +audio
+         +16m05s461ms (2) 099 -wifi_radio wifi_suppl=disconn stats=0:"<redacted>"
+         +16m05s585ms (2) 099 conn=1:"<redacted>"
+         +16m05s641ms (2) 099 +wifi_scan stats=0:"<redacted>"
+         +16m05s686ms (1) 099 -wifi_scan
+         +16m10s729ms (1) 099 +wifi_scan
+         +16m12s157ms (1) 099 -wifi_scan
+         +16m14s619ms (1) 099 wifi_suppl=associating
+         +16m14s790ms (1) 099 wifi_suppl=associated
+         +16m14s969ms (1) 099 wifi_suppl=4-way-handshake
+         +16m15s109ms (1) 099 wifi_suppl=group-handshake
+         +16m15s678ms (2) 099 +wifi_scan +wifi_radio wifi_suppl=completed stats=0:"<redacted>"
+         +16m16s365ms (2) 099 stats=0:"<redacted>"
+         +16m16s467ms (2) 099 conn=1:"<redacted>"
+         +16m16s666ms (2) 099 -wifi_scan pkgactive=<uid>:"<redacted>"
+         +16m17s391ms (1) 099 +wifi_scan
+         +16m17s787ms (1) 099 -wifi_scan
+         +16m18s001ms (2) 099 +wifi_scan pkgactive=<uid>:"<redacted>"
+         +16m18s150ms (2) 099 wifi_signal_strength=2 +job=<uid>:"<redacted>"
+         +16m18s803ms (2) 099 +job=<uid>:"<redacted>"
+         +16m18s805ms (2) 099 +job=<uid>:"<redacted>"
+         +16m19s067ms (2) 099 -job=<uid>:"<redacted>"
+         +16m19s122ms (3) 099 -audio pkgactive=<uid>:"<redacted>"
+         +16m19s336ms (3) 099 +audio -job=<uid>:"<redacted>"
+         +16m20s518ms (2) 099 -wifi_scan -job=<uid>:"<redacted>"
+         +16m36s869ms (2) 099 -audio wifi_signal_strength=3
+         +16m37s296ms (2) 099 +audio
+         +16m48s147ms (2) 099 stats=0:"<redacted>"
+         +16m52s022ms (1) 099 wifi_signal_strength=2
+         +16m55s055ms (2) 099 -audio wifi_signal_strength=3
+         +16m55s236ms (2) 099 +audio
+         +16m56s677ms (1) 099 wifi_signal_strength=2
+         +17m01s115ms (1) 099 wifi_signal_strength=3
+         +17m04s146ms (1) 099 wifi_signal_strength=2
+         +17m13s136ms (2) 099 -audio
+         +17m13s196ms (2) 099 +audio
+         +17m16s244ms (2) 099 stats=0:"<redacted>"
+         +17m31s077ms (2) 099 -audio
+         +17m31s136ms (2) 099 +audio wifi_signal_strength=3
+         +17m48s074ms (2) 099 charge=200 -audio
+         +17m49s076ms (2) 099 +audio
+         +18m06s957ms (2) 099 -audio
+         +18m07s007ms (2) 099 +audio
+         +18m16s213ms (2) 099 stats=0:"<redacted>"
+         +18m24s897ms (2) 099 -audio
+         +18m24s943ms (2) 099 +audio
+         +18m42s837ms (2) 099 -audio
+         +18m42s884ms (2) 099 +audio
+         +18m48s142ms (1) 099 charge=211
+         +19m00s777ms (2) 099 -audio
+         +19m00s819ms (2) 099 +audio
+         +19m18s718ms (2) 099 -audio
+         +19m18s777ms (2) 099 +audio
+         +19m24s166ms (2) 099 -wifi_radio stats=0:"<redacted>"
+         +19m25s374ms (2) 099 +wifi_radio wakeupap=<uid>:"<redacted>"
+         +19m25s383ms (2) 099 stats=0:"<redacted>"
+         +19m32s843ms (1) 099 wifi_signal_strength=2
+         +19m35s875ms (2) 099 -audio wifi_signal_strength=3
+         +19m36s718ms (2) 099 +audio
+         +19m54s600ms (2) 099 -audio
+         +19m54s657ms (2) 099 +audio
+         +20m12s538ms (2) 099 -audio
+         +20m12s601ms (2) 099 +audio
+         +20m25s430ms (1) 099 charge=228
+         +20m30s498ms (2) 099 -audio
+         +20m30s557ms (2) 099 +audio
+         +20m48s438ms (2) 099 -audio
+         +20m48s486ms (2) 099 +audio
+         +21m01s193ms (2) 098 charge=234
+                 Details: cpu=231300u+135430s
+                          /proc/stat=206890 usr, 115540 sys, 340 io, 0 irq, 780 sirq, 2035130 idle (<pkg>% of 6h 33m 6s 800ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+         +21m01s195ms (2) 098 stats=0:"<redacted>"
+         +21m06s379ms (2) 098 -audio
+         +21m06s429ms (2) 098 +audio
+         +21m12s845ms (1) 098 wifi_signal_strength=2
+         +21m22s077ms (1) 098 wifi_signal_strength=3
+         +21m23s434ms (2) 098 +job=<uid>:"<redacted>"
+         +21m23s552ms (3) 098 -audio -job=<uid>:"<redacted>"
+         +21m24s368ms (2) 098 +audio
+         +21m34s219ms (1) 098 wifi_signal_strength=2
+         +21m42s259ms (2) 098 -audio
+         +21m42s318ms (2) 098 +audio
+         +21m44s866ms (1) 098 wifi_signal_strength=3
+         +22m00s199ms (2) 098 -audio
+         +22m00s244ms (2) 098 +audio wifi_signal_strength=2
+         +22m01s259ms (1) 098 charge=245
+         +22m04s559ms (1) 098 wifi_signal_strength=3
+         +22m16s686ms (1) 098 wifi_signal_strength=2
+         +22m18s141ms (2) 098 -audio
+         +22m18s194ms (2) 098 +audio
+         +22m19s716ms (1) 098 wifi_signal_strength=3
+         +22m36s082ms (2) 098 -audio
+         +22m36s128ms (2) 098 +audio
+         +22m43s985ms (1) 098 wifi_signal_strength=2
+         +22m50s043ms (1) 098 wifi_signal_strength=3
+         +22m54s019ms (2) 098 -audio
+         +22m54s065ms (2) 098 +audio
+         +23m01s313ms (1) 098 charge=255
+         +23m11s959ms (2) 098 -audio
+         +23m12s009ms (2) 098 +audio wifi_signal_strength=2
+         +23m17s337ms (1) 098 wifi_signal_strength=3
+         +23m29s900ms (2) 098 -audio
+         +23m29s948ms (2) 098 +audio
+         +23m47s840ms (2) 098 -audio
+         +23m47s889ms (2) 098 +audio
+         +23m56s742ms (1) 098 wifi_signal_strength=2
+         +24m01s375ms (1) 098 charge=266
+         +24m05s519ms (2) 097 charge=267
+                 Details: cpu=237990u+146360s
+                          /proc/stat=232470 usr, 128730 sys, 3780 io, 0 irq, 2770 sirq, 1986870 idle (<pkg>% of 6h 32m 26s 200ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+         +24m05s522ms (3) 097 -audio stats=0:"<redacted>"
+         +24m05s832ms (2) 097 +audio
+         +24m14s214ms (2) 097 -wifi_radio stats=0:"<redacted>"
+         +24m15s370ms (2) 097 +wifi_radio wakeupap=<uid>:"<redacted>"
+         +24m15s381ms (2) 097 stats=0:"<redacted>"
+         +24m23s720ms (2) 097 -audio
+         +24m23s767ms (2) 097 +audio
+         +24m41s640ms (2) 097 -audio
+         +24m41s682ms (2) 097 +audio
+         +24m57s003ms (1) 097 wifi_signal_strength=3
+         +24m59s580ms (2) 097 -audio
+         +24m59s625ms (2) 097 +audio
+         +25m03s462ms (1) 097 wifi_signal_strength=2
+         +25m15s428ms (1) 097 charge=279
+         +25m17s521ms (2) 097 -audio
+         +25m17s581ms (2) 097 +audio
+         +25m35s462ms (2) 097 -audio
+         +25m35s510ms (2) 097 +audio
+         +25m43s623ms (2) 097 stats=0:"<redacted>"
+         +25m53s401ms (2) 097 -audio
+         +25m53s455ms (2) 097 +audio
+         +26m10s227ms (1) 097 wifi_signal_strength=3
+         +26m11s342ms (2) 097 -audio
+         +26m11s377ms (2) 097 +audio
+         +26m15s019ms (2) 097 +job=5514:"<redacted>"
+         +26m15s181ms (2) 097 -job=5514:"<redacted>"
+         +26m29s282ms (2) 097 -audio
+         +26m29s329ms (2) 097 +audio
+         +26m47s222ms (2) 097 -audio
+         +26m47s266ms (2) 097 +audio
+         +26m58s925ms (2) 097 volt=4005 charge=298
+         +27m05s163ms (2) 097 -audio
+         +27m05s205ms (2) 097 +audio
+         +27m23s103ms (2) 097 -audio
+         +27m23s164ms (2) 097 +audio
+         +27m40s559ms (2) 096 temp=300 charge=305
+                 Details: cpu=221210u+136170s
+                          /proc/stat=201670 usr, 116320 sys, 190 io, 0 irq, 2590 sirq, 2034610 idle (<pkg>% of 6h 32m 33s 800ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+         +27m40s563ms (3) 096 -audio stats=0:"<redacted>"
+         +27m41s121ms (2) 096 +audio
+         +27m44s390ms (2) 096 -wifi_radio stats=0:"<redacted>"
+         +27m45s370ms (2) 096 +wifi_radio wakeupap=<uid>:"<redacted>"
+         +27m45s382ms (2) 096 stats=0:"<redacted>"
+         +27m59s002ms (2) 096 -audio
+         +27m59s053ms (2) 096 +audio
+         +28m04s372ms (2) 096 pkgactive=<uid>:"<redacted>"
+         +28m04s905ms (2) 096 -top=<uid>:"<redacted>"
+         +28m04s905ms (3) 096 +gps -audio -video wifi_signal_strength=2 +top=<uid>:"<redacted>"
+         +28m07s085ms (2) 096 -gps pkgactive=<uid>:"<redacted>"
+         +28m12s574ms (2) 096 -top=<uid>:"<redacted>"
+         +28m12s574ms (2) 096 +top=1000:"<redacted>"
+         +28m14s705ms (1) 096 wifi_signal_strength=3
+         +28m17s534ms (1) 096 +wifi_scan
+         +28m19s990ms (1) 096 -wifi_scan
+         +28m22s720ms (2) 096 stats=0:"<redacted>"
+         +28m22s766ms (4) 096 status=charging plug=usb temp=290 volt=4001 charge=314 +plugged +charging +job=<uid>:"<redacted>"
+         +28m22s912ms (2) 096 +usb_data -job=<uid>:"<redacted>"
+         +28m26s341ms (2) 096 pkgactive=<uid>:"<redacted>"
+         +28m32s847ms (1) 096 wifi_signal_strength=2
+         +28m38s905ms (1) 096 wifi_signal_strength=3
+         +28m44s547ms (2) 096 stats=0:"<redacted>"
+
+Total cpu time reads: 370
+Batched cpu time reads: 1829
+Batching Duration (min): 242
+All UID cpu time reads since the later of device start or stats reset: 44
+UIDs removed since the later of device start or stats reset: 3

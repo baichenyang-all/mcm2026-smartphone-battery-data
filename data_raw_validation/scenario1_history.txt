@@ -1,0 +1,147 @@
+﻿Battery History (0% used, 1144 used of 512KB, 52 strings using 4000):
+                    0 (10) RESET:TIME: 2026-01-31-00-52-29
+                    0 (2) 100 status=discharging health=good plug=none temp=250 volt=4282 charge=1 +running +wake_lock +phone_scanning +screen phone_state=out +wifi_running +wifi +usb_data wifi_signal_strength=3 wifi_suppl=completed +ble_scan top=1000:"<redacted>"
+                    0 (2) 100 user=0:"<redacted>"
+                    0 (2) 100 userfg=0:"<redacted>"
+                +29ms (2) 100 -usb_data stats=0:"<redacted>"
+             +1s552ms (2) 100 +wifi_radio wakeupap=1000:"<redacted>"
+             +1s563ms (3) 100 -wake_lock -screen wifi_signal_strength=2 stats=0:"<redacted>"
+             +2s427ms (3) 100 +wake_lock=1000:"<redacted>" stats=0:"<redacted>"
+             +2s438ms (2) 100 volt=4192 -wake_lock
+             +2s754ms (2) 100 +wake_lock=<uid>:"<redacted>"
+             +2s948ms (1) 100 -wake_lock
+             +3s010ms (2) 100 +wake_lock=1000:"<redacted>"
+             +3s012ms (1) 100 -wake_lock
+             +3s080ms (2) 100 +wake_lock=1000:"<redacted>"
+             +3s109ms (1) 100 -wake_lock
+             +3s213ms (2) 100 +wake_lock=1001:"<redacted>"
+             +3s217ms (1) 100 -wake_lock
+             +5s793ms (3) 100 +wake_lock=<uid>:"<redacted>" +tmpwhitelist=<uid>:"<redacted>"
+             +6s588ms (2) 100 -wake_lock pkgactive=<uid>:"<redacted>"
+             +6s694ms (2) 100 +wake_lock=1000:"<redacted>"
+             +6s814ms (1) 100 -wake_lock
+             +7s069ms (3) 100 +wake_lock=1000:"<redacted>" +tmpwhitelist=1000:"<redacted>"
+             +7s097ms (2) 100 -wake_lock pkginst=u1015a51301:"<redacted>"
+             +7s103ms (2) 100 pkginst=u1015a51301:"<redacted>"
+             +7s118ms (2) 100 pkginst=u1015a51301:"<redacted>"
+             +7s438ms (2) 100 stats=0:"<redacted>"
+             +8s843ms (2) 100 +wake_lock=1000:"<redacted>"
+             +8s853ms (1) 100 -wake_lock
+             +8s855ms (2) 100 +wake_lock=1000:"<redacted>"
+             +8s980ms (1) 100 -wake_lock
+            +10s126ms (2) 100 +wake_lock=1000:"<redacted>"
+            +10s137ms (1) 100 -wake_lock
+            +11s630ms (2) 100 wake_reason=0:"<redacted>"
+            +12s844ms (1) 100 -running
+          +1m06s356ms (3) 100 +running +wake_lock=1000:"<redacted>" -wifi_radio wake_reason=0:"<redacted>" stats=0:"<redacted>"
+          +1m06s409ms (1) 100 -wake_lock
+          +1m07s597ms (3) 100 +wifi_radio wake_reason=0:"<redacted>" wakeupap=1000:"<redacted>"
+          +1m07s616ms (2) 100 stats=0:"<redacted>"
+          +1m08s872ms (1) 100 -running
+          +1m14s360ms (2) 100 +running +wake_lock=1000:"<redacted>" wake_reason=0:"<redacted>"
+          +1m14s378ms (1) 100 -wake_lock
+          +1m14s385ms (2) 100 +wake_lock=1000:"<redacted>"
+          +1m14s474ms (3) 100 -wake_lock wake_reason=0:"<redacted>" pkgactive=<uid>:"<redacted>"
+          +1m15s383ms (2) 100 +wake_lock=1000:"<redacted>"
+          +1m15s466ms (1) 100 -wake_lock
+          +1m18s207ms (2) 100 wake_reason=0:"<redacted>"
+          +1m19s189ms (3) 100 wake_reason=0:"<redacted>" stats=0:"<redacted>"
+          +1m20s471ms (1) 100 -running
+          +1m33s358ms (2) 100 +running +wake_lock=1000:"<redacted>" wake_reason=0:"<redacted>"
+          +1m33s383ms (1) 100 -wake_lock
+          +1m33s730ms (2) 100 +wake_lock=1000:"<redacted>"
+          +1m33s766ms (1) 100 -wake_lock
+          +1m33s772ms (2) 100 +wake_lock=1000:"<redacted>"
+          +1m33s777ms (1) 100 -wake_lock
+          +1m33s811ms (3) 100 +wake_lock=1000:"<redacted>" wake_reason=0:"<redacted>" -tmpwhitelist=<uid>:"<redacted>"
+          +1m35s474ms (1) 100 -running -wake_lock
+          +2m09s357ms (3) 100 +running -wifi_radio wake_reason=0:"<redacted>" stats=0:"<redacted>"
+          +2m09s385ms (2) 100 +wifi_radio wakeupap=1000:"<redacted>"
+          +2m09s394ms (2) 100 stats=0:"<redacted>"
+          +2m10s658ms (1) 100 -running
+          +2m47s362ms (3) 100 +running -wifi_radio wake_reason=0:"<redacted>" wakeupap=1000:"<redacted>"
+          +2m47s368ms (2) 100 +wifi_radio stats=0:"<redacted>"
+          +2m47s389ms (3) 100 +wake_lock=1000:"<redacted>" wifi_signal_strength=3 stats=0:"<redacted>"
+          +2m47s543ms (1) 100 -wake_lock
+          +2m47s689ms (3) 100 +wake_lock=1000:"<redacted>" +job=<uid>:"<redacted>"
+          +2m47s782ms (2) 100 +job=<uid>:"<redacted>"
+          +2m47s818ms (2) 100 device_idle=light -job=<uid>:"<redacted>"
+          +2m48s067ms (2) 100 -job=<uid>:"<redacted>"
+          +2m48s170ms (2) 100 stats=0:"<redacted>"
+          +2m53s969ms (2) 100 stats=0:"<redacted>"
+          +2m55s331ms (2) 100 pkgactive=<uid>:"<redacted>"
+          +2m57s374ms (2) 100 -wake_lock wake_reason=0:"<redacted>"
+          +2m58s759ms (1) 100 -running
+          +3m19s367ms (3) 100 +running +wake_lock=1000:"<redacted>" -wifi_radio wake_reason=0:"<redacted>" stats=0:"<redacted>"
+          +3m19s401ms (2) 100 -wake_lock -tmpwhitelist=1000:"<redacted>"
+          +3m20s424ms (1) 100 -running
+          +7m32s353ms (3) 100 +running +wake_lock=1000:"<redacted>" stats=0:"<redacted>"
+          +7m32s391ms (3) 100 -wake_lock +wifi_radio wake_reason=0:"<redacted>" wakeupap=1000:"<redacted>"
+          +7m32s629ms (3) 100 +wake_lock=1000:"<redacted>" stats=0:"<redacted>"
+          +7m32s760ms (1) 100 -wake_lock
+          +7m34s389ms (1) 100 -running
+          +7m47s357ms (3) 100 +running +wake_lock=1000:"<redacted>" -wifi_radio wake_reason=0:"<redacted>" stats=0:"<redacted>"
+          +7m47s714ms (2) 100 +job=<uid>:"<redacted>"
+          +7m47s835ms (2) 100 +wifi_radio wakeupap=1000:"<redacted>"
+          +7m47s846ms (2) 100 stats=0:"<redacted>"
+          +7m47s892ms (2) 100 +job=<uid>:"<redacted>"
+          +7m47s894ms (3) 100 device_idle=off wake_reason=0:"<redacted>" +job=<uid>:"<redacted>"
+          +7m47s973ms (2) 100 +job=<uid>:"<redacted>"
+          +7m48s008ms (2) 100 +job=<uid>:"<redacted>"
+          +7m48s009ms (2) 100 -job=<uid>:"<redacted>"
+          +7m48s034ms (2) 100 +wifi_scan -wifi -job=<uid>:"<redacted>"
+          +7m48s098ms (2) 100 +wifi -job=<uid>:"<redacted>"
+          +7m48s184ms (2) 100 -wifi_radio +job=<uid>:"<redacted>"
+          +7m49s027ms (2) 100 -wifi_running conn=1:"<redacted>"
+          +7m50s347ms (2) 100 -wifi_scan stats=0:"<redacted>"
+          +7m50s459ms (2) 100 stats=0:"<redacted>"
+          +7m50s548ms (2) 100 -job=<uid>:"<redacted>"
+          +7m50s689ms (2) 100 stats=0:"<redacted>"
+          +7m50s708ms (2) 100 -job=<uid>:"<redacted>"
+          +7m50s976ms (2) 100 +job=<uid>:"<redacted>"
+          +7m50s989ms (2) 100 -job=<uid>:"<redacted>"
+          +7m54s187ms (1) 100 device_idle=light
+          +7m55s765ms (2) 100 stats=0:"<redacted>"
+          +7m57s166ms (2) 100 -job=<uid>:"<redacted>"
+          +8m04s038ms (2) 100 -wake_lock wake_reason=0:"<redacted>"
+          +8m05s180ms (2) 100 stats=0:"<redacted>"
+          +8m06s213ms (2) 100 +wake_lock=1000:"<redacted>"
+          +8m06s232ms (1) 100 -wake_lock
+          +8m09s820ms (1) 100 -running
+         +12m48s355ms (3) 100 +running +wake_lock=1000:"<redacted>" wake_reason=0:"<redacted>" +job=<uid>:"<redacted>"
+         +12m48s481ms (1) 100 -wake_lock
+         +12m48s675ms (2) 100 +wake_lock=1000:"<redacted>"
+         +12m48s681ms (1) 100 -wake_lock
+         +12m48s703ms (3) 100 +wake_lock=<uid>:"<redacted>" -job=<uid>:"<redacted>"
+         +12m48s866ms (2) 100 -wake_lock stats=0:"<redacted>"
+         +12m53s302ms (2) 100 wake_reason=0:"<redacted>"
+         +12m54s730ms (2) 100 +wake_lock=1000:"<redacted>"
+         +12m54s754ms (1) 100 -wake_lock
+         +12m54s757ms (2) 100 +wake_lock=1000:"<redacted>"
+         +12m54s779ms (1) 100 -wake_lock
+         +12m58s661ms (1) 100 -running
+         +17m47s358ms (3) 100 +running wake_reason=0:"<redacted>" pkgactive=<uid>:"<redacted>"
+         +17m47s729ms (2) 100 pkgactive=<uid>:"<redacted>"
+         +17m47s729ms (3) 100 +wake_lock=1000:"<redacted>" pkgactive=<uid>:"<redacted>"
+         +17m48s262ms (2) 100 -wake_lock stats=0:"<redacted>"
+         +17m52s301ms (2) 100 wake_reason=0:"<redacted>"
+         +17m57s679ms (1) 100 -running
+         +25m53s359ms (2) 100 +running +wake_lock=1002:"<redacted>" wake_reason=0:"<redacted>"
+         +25m53s378ms (1) 100 -wake_lock
+         +25m55s456ms (1) 100 -running
+         +27m48s361ms (2) 100 +running +wake_lock=1000:"<redacted>" wake_reason=0:"<redacted>"
+         +27m48s472ms (1) 100 -wake_lock
+         +27m48s896ms (2) 100 +wake_lock=1002:"<redacted>"
+         +27m49s094ms (2) 100 -wake_lock wake_reason=0:"<redacted>"
+         +27m50s446ms (1) 100 -running
+         +31m32s365ms (2) 100 +running +wake_lock=1000:"<redacted>" wake_reason=0:"<redacted>"
+         +31m32s678ms (2) 100 -wake_lock stats=0:"<redacted>"
+         +31m34s107ms (1) 100 -running
+         +39m47s363ms (3) 100 +running +wake_lock=1000:"<redacted>" device_idle=off wake_reason=0:"<redacted>" stats=0:"<redacted>"
+         +39m47s686ms (3) 100 status=full plug=usb temp=220 volt=4197 charge=42 +plugged
+
+Total cpu time reads: 319
+Batched cpu time reads: 1629
+Batching Duration (min): 203
+All UID cpu time reads since the later of device start or stats reset: 68
+UIDs removed since the later of device start or stats reset: 0

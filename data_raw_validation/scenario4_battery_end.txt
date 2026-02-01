@@ -1,0 +1,15 @@
+﻿Current Battery Service state:
+  AC powered: false
+  USB powered: true
+  Wireless powered: false
+  Max charging current: 2022000
+  Max charging voltage: 5229000
+  Charge counter: 367000
+  status: 2
+  health: 2
+  present: true
+  level: 95
+  scale: 100
+  voltage: 3953
+  temperature: 250
+  technology: Li-poly

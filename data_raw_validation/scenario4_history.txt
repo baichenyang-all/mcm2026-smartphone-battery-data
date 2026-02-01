@@ -1,0 +1,530 @@
+﻿Battery History (0% used, 4524 used of 512KB, 48 strings using 3288):
+                    0 (10) RESET:TIME: 2026-01-31-12-39-14
+                    0 (2) 100 status=discharging health=good plug=none temp=250 volt=4312 charge=126 +running +wake_lock +wifi_radio +phone_scanning +screen phone_state=out +wifi_running +wifi +usb_data wifi_signal_strength=3 wifi_suppl=completed +ble_scan top=1000:"<redacted>"
+                    0 (2) 100 user=0:"<redacted>"
+                    0 (2) 100 userfg=0:"<redacted>"
+                 +6ms (2) 100 -usb_data stats=0:"<redacted>"
+             +3s350ms (2) 100 -top=1000:"<redacted>"
+             +3s350ms (2) 100 +top=<uid>:"<redacted>"
+             +5s072ms (2) 100 -top=<uid>:"<redacted>"
+             +5s073ms (2) 100 +top=1000:"<redacted>"
+            +12s548ms (2) 100 pkgactive=<uid>:"<redacted>"
+            +30s278ms (2) 100 -top=1000:"<redacted>"
+            +30s278ms (2) 100 +top=<uid>:"<redacted>"
+            +34s072ms (1) 100 wifi_signal_strength=1 wifi_suppl=associated
+            +34s195ms (1) 100 wifi_suppl=4-way-handshake
+            +34s196ms (1) 100 wifi_suppl=group-handshake
+            +34s204ms (1) 100 wifi_suppl=completed
+            +36s169ms (2) 100 +job=<uid>:"<redacted>"
+            +36s203ms (2) 100 -job=<uid>:"<redacted>"
+            +36s455ms (2) 100 -top=<uid>:"<redacted>"
+            +36s455ms (2) 100 +top=<uid>:"<redacted>"
+            +36s497ms (2) 100 wifi_signal_strength=2 wifi_suppl=associated pkgactive=<uid>:"<redacted>"
+            +37s281ms (2) 100 wifi_suppl=4-way-handshake pkgactive=<uid>:"<redacted>"
+            +37s528ms (1) 100 wifi_suppl=group-handshake
+            +37s537ms (1) 100 wifi_suppl=completed
+            +39s458ms (1) 100 +gps +wifi_scan
+            +39s595ms (2) 100 -gps +job=<uid>:"<redacted>"
+            +39s969ms (2) 100 +gps -job=<uid>:"<redacted>"
+            +41s764ms (2) 100 -wifi_scan +audio
+            +41s966ms (2) 100 +wifi_scan pkgactive=<uid>:"<redacted>"
+            +44s466ms (1) 100 -wifi_scan
+            +49s849ms (1) 100
+            +53s448ms (1) 100 +wifi_scan
+            +55s974ms (1) 100 -wifi_scan
+          +1m02s653ms (1) 100 wifi_signal_strength=3
+          +1m10s122ms (2) 100 brightness=dim
+          +1m14s444ms (1) 100 +wifi_scan
+          +1m16s964ms (1) 100 -wifi_scan gps_signal_quality=good
+          +1m41s766ms (2) 100 +longwake=<uid>:"<redacted>"
+          +2m57s337ms (1) 100 +wifi_scan
+          +2m59s831ms (1) 100 -wifi_scan
+          +3m18s230ms (1) 100 +wifi_scan
+          +3m20s725ms (1) 100 -wifi_scan
+          +3m26s996ms (2) 100 stats=0:"<redacted>"
+          +3m39s155ms (1) 100 +wifi_scan
+          +3m41s629ms (1) 100 -wifi_scan
+          +3m42s830ms (2) 100 pkgactive=<uid>:"<redacted>"
+          +3m59s848ms (1) 100 +wifi_scan
+          +4m02s330ms (1) 100 -wifi_scan
+          +5m01s735ms (1) 100 +wifi_scan
+          +5m04s215ms (1) 100 -wifi_scan
+          +5m21s911ms (1) 100 +wifi_scan
+          +5m24s384ms (1) 100 -wifi_scan
+          +5m42s912ms (1) 100 +wifi_scan
+          +5m45s379ms (1) 100 -wifi_scan
+          +6m03s889ms (1) 100 +wifi_scan
+          +6m06s378ms (1) 100 -wifi_scan
+          +7m05s676ms (1) 100 +wifi_scan
+          +7m08s162ms (1) 100 -wifi_scan
+          +7m09s348ms (2) 100 pkgactive=<uid>:"<redacted>"
+          +7m26s583ms (1) 100 +wifi_scan
+          +7m29s057ms (1) 100 -wifi_scan
+          +7m47s451ms (1) 100 +wifi_scan
+          +7m49s895ms (1) 100 -wifi_scan
+          +8m08s317ms (1) 100 +wifi_scan
+          +8m10s794ms (1) 100 -wifi_scan
+          +9m04s516ms (2) 099 temp=260 volt=4131 charge=184
+                 Details: cpu=325670u+225270s
+                          /proc/stat=390310 usr, 242540 sys, 20460 io, 0 irq, 18520 sirq, 3966470 idle (<pkg>% of 12h 53m 3s 0ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+          +9m04s535ms (2) 099 stats=0:"<redacted>"
+          +9m10s180ms (1) 099 +wifi_scan
+          +9m12s664ms (1) 099 -wifi_scan
+          +9m31s128ms (1) 099 +wifi_scan
+          +9m33s605ms (1) 099 -wifi_scan
+          +9m51s970ms (1) 099 +wifi_scan
+          +9m54s449ms (1) 099 -wifi_scan
+         +10m12s884ms (1) 099 +wifi_scan
+         +10m15s341ms (1) 099 -wifi_scan
+         +10m16s528ms (2) 099 pkgactive=<uid>:"<redacted>"
+         +11m06s125ms (2) 099 brightness=dark
+         +11m13s482ms (3) 099 -screen stats=0:"<redacted>"
+         +11m13s546ms (4) 099 volt=4096 charge=195 -audio -longwake=<uid>:"<redacted>"
+         +11m14s698ms (1) 099 -wake_lock -gps
+         +11m16s685ms (2) 099 +wake_lock=1000:"<redacted>"
+         +11m16s702ms (1) 099 -wake_lock
+         +11m18s752ms (2) 099 stats=0:"<redacted>"
+         +11m20s085ms (2) 099 +wake_lock=1000:"<redacted>"
+         +11m20s117ms (1) 099 -wake_lock
+         +11m20s120ms (2) 099 +wake_lock=1000:"<redacted>"
+         +11m20s270ms (2) 099 -wake_lock wake_reason=0:"<redacted>"
+         +11m21s750ms (1) 099 -running
+         +11m23s174ms (2) 099 +running +wake_lock=1000:"<redacted>" wake_reason=0:"<redacted>"
+         +11m23s181ms (1) 099 -wake_lock
+         +11m24s545ms (1) 099 -running
+         +11m41s186ms (3) 099 +running +wake_lock=1000:"<redacted>" -wifi_radio wake_reason=0:"<redacted>" stats=0:"<redacted>"
+         +11m41s300ms (2) 099 -wake_lock +wifi_radio wakeupap=<uid>:"<redacted>"
+         +11m41s309ms (3) 099 wake_reason=0:"<redacted>" stats=0:"<redacted>"
+         +11m41s915ms (3) 099 +wake_lock=1000:"<redacted>" pkgactive=<uid>:"<redacted>"
+         +11m43s150ms (3) 099 -wake_lock wake_reason=0:"<redacted>" stats=0:"<redacted>"
+         +11m45s092ms (1) 099 -running
+         +12m04s171ms (3) 099 +running +wake_lock=1000:"<redacted>" -wifi_radio wake_reason=0:"<redacted>" wakeupap=1000:"<redacted>"
+         +12m04s200ms (2) 099 -wake_lock +wifi_radio stats=0:"<redacted>"
+         +12m04s225ms (3) 099 +wake_lock=1000:"<redacted>" stats=0:"<redacted>"
+         +12m04s269ms (1) 099 -wake_lock
+         +12m05s487ms (1) 099 -running
+         +12m58s176ms (3) 099 +running -wifi_radio wake_reason=0:"<redacted>" stats=0:"<redacted>"
+         +12m58s259ms (2) 099 +wifi_radio wakeupap=<uid>:"<redacted>"
+         +12m58s269ms (3) 099 +wake_lock=1000:"<redacted>" stats=0:"<redacted>"
+         +12m58s676ms (1) 099 -running -wake_lock
+         +13m13s173ms (2) 099 +running +wake_lock=1000:"<redacted>" wake_reason=0:"<redacted>"
+         +13m13s277ms (1) 099 -wake_lock
+         +13m13s403ms (2) 099 +wake_lock=1000:"<redacted>"
+         +13m13s420ms (1) 099 -running -wake_lock
+         +15m02s166ms (3) 099 +running -wifi_radio wake_reason=0:"<redacted>" stats=0:"<redacted>"
+         +15m02s234ms (3) 099 +wake_lock=1000:"<redacted>" stats=0:"<redacted>"
+         +15m02s584ms (2) 099 +wifi_radio wakeupap=1000:"<redacted>"
+         +15m02s593ms (3) 099 -wake_lock device_idle=light wake_reason=0:"<redacted>" stats=0:"<redacted>"
+         +15m03s935ms (1) 099 -running
+         +15m12s175ms (2) 099 +running +wake_lock=<uid>:"<redacted>" wake_reason=0:"<redacted>"
+         +15m13s221ms (2) 099 -wake_lock wake_reason=0:"<redacted>"
+         +15m14s621ms (1) 099 -running
+         +15m17s173ms (4) 099 +running +wake_lock=1000:"<redacted>" +screen wake_reason=0:"<redacted>" screenwake=1000:"<redacted>"
+         +15m17s221ms (2) 099 stats=0:"<redacted>"
+         +15m17s237ms (4) 099 temp=250 volt=4176 charge=201 brightness=dim device_idle=off +camera -ble_scan active=1000:"<redacted>"
+         +15m17s831ms (2) 099 +gps +wifi_scan -camera +ble_scan pkgactive=<uid>:"<redacted>"
+         +15m18s843ms (3) 099 +audio gps_signal_quality=poor pkgactive=<uid>:"<redacted>"
+         +15m20s585ms (1) 099 -wifi_scan
+         +15m26s559ms (2) 099 pkgactive=<uid>:"<redacted>"
+         +15m35s227ms (1) 099 +wifi_scan
+         +15m37s699ms (1) 099 -wifi_scan
+         +15m40s021ms (2) 099 +wifi_scan +job=<uid>:"<redacted>"
+         +15m40s196ms (2) 099 -job=<uid>:"<redacted>"
+         +15m42s419ms (1) 099 -wifi_scan
+         +15m53s253ms (1) 099 +wifi_scan
+         +15m55s635ms (1) 099 -wifi_scan
+         +16m01s157ms (1) 099 +wifi_scan
+         +16m03s548ms (1) 099 -wifi_scan
+         +16m11s262ms (1) 099 +wifi_scan
+         +16m13s655ms (1) 099 -wifi_scan
+         +16m18s844ms (2) 099 +longwake=<uid>:"<redacted>"
+         +16m21s797ms (1) 099 +wifi_scan
+         +16m24s215ms (1) 099 -wifi_scan
+         +16m29s290ms (1) 099 +wifi_scan
+         +16m31s668ms (1) 099 -wifi_scan
+         +16m38s104ms (1) 099 +wifi_scan
+         +16m40s497ms (1) 099 -wifi_scan
+         +16m47s309ms (1) 099 +wifi_scan
+         +16m49s701ms (1) 099 -wifi_scan
+         +17m05s334ms (1) 099 +wifi_scan
+         +17m07s738ms (1) 099 -wifi_scan
+         +17m18s072ms (1) 099 +wifi_scan
+         +17m20s474ms (1) 099 -wifi_scan
+         +17m23s352ms (1) 099 +wifi_scan
+         +17m25s760ms (1) 099 -wifi_scan
+         +17m41s380ms (1) 099 +wifi_scan
+         +17m43s779ms (1) 099 -wifi_scan
+         +17m46s129ms (1) 099 +wifi_scan
+         +17m48s531ms (1) 099 -wifi_scan
+         +17m58s083ms (1) 099 +wifi_scan
+         +18m00s479ms (1) 099 -wifi_scan
+         +18m06s898ms (1) 099 +wifi_scan
+         +18m09s291ms (1) 099 -wifi_scan
+         +18m17s418ms (1) 099 +wifi_scan
+         +18m19s791ms (1) 099 -wifi_scan
+         +18m27s912ms (1) 099 +wifi_scan
+         +18m30s302ms (1) 099 -wifi_scan
+         +18m35s445ms (1) 099 +wifi_scan
+         +18m37s819ms (1) 099 -wifi_scan
+         +18m53s470ms (1) 099 +wifi_scan
+         +18m55s863ms (1) 099 -wifi_scan
+         +19m11s504ms (1) 099 +wifi_scan
+         +19m13s899ms (1) 099 -wifi_scan
+         +19m29s522ms (1) 099 +wifi_scan
+         +19m30s541ms (2) 099 temp=240 volt=4060 charge=230
+         +19m31s912ms (1) 099 -wifi_scan
+         +19m47s549ms (1) 099 +wifi_scan
+         +19m49s934ms (1) 099 -wifi_scan
+         +19m52s310ms (1) 099 +wifi_scan
+         +19m54s727ms (1) 099 -wifi_scan
+         +19m58s105ms (1) 099 +wifi_scan
+         +20m00s505ms (1) 099 -wifi_scan
+         +20m05s568ms (1) 099 +wifi_scan
+         +20m07s956ms (1) 099 -wifi_scan
+         +20m13s210ms (1) 099 +wifi_scan
+         +20m15s590ms (1) 099 -wifi_scan
+         +20m23s586ms (1) 099 +wifi_scan
+         +20m25s215ms (2) 098 charge=236
+                 Details: cpu=209580u+137810s
+                          /proc/stat=206650 usr, 130460 sys, -25300 io, 0 irq, 4350 sirq, -12312170 idle, PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+         +20m25s218ms (2) 098 -wifi_scan stats=0:"<redacted>"
+         +20m34s327ms (1) 098 +wifi_scan
+         +20m36s728ms (1) 098 -wifi_scan
+         +20m41s600ms (1) 098 +wifi_scan
+         +20m43s994ms (1) 098 -wifi_scan
+         +20m59s626ms (1) 098 +wifi_scan
+         +21m02s029ms (1) 098 -wifi_scan
+         +21m09s266ms (2) 098 +job=<uid>:"<redacted>"
+         +21m09s509ms (2) 098 -job=<uid>:"<redacted>"
+         +21m17s646ms (1) 098 +wifi_scan
+         +21m20s040ms (1) 098 -wifi_scan
+         +21m35s678ms (1) 098 +wifi_scan
+         +21m38s086ms (1) 098 -wifi_scan
+         +21m53s699ms (1) 098 +wifi_scan
+         +21m56s109ms (1) 098 -wifi_scan
+         +21m58s492ms (1) 098 +wifi_scan
+         +22m00s885ms (1) 098 -wifi_scan
+         +22m11s731ms (1) 098 +wifi_scan
+         +22m14s130ms (2) 098 -wifi_scan +job=<uid>:"<redacted>"
+         +22m14s215ms (2) 098 -job=<uid>:"<redacted>"
+         +22m19s478ms (1) 098 +wifi_scan
+         +22m21s883ms (1) 098 -wifi_scan
+         +22m29s767ms (1) 098 charge=249 +wifi_scan
+         +22m32s163ms (1) 098 -wifi_scan
+         +22m38s093ms (1) 098 +wifi_scan
+         +22m40s497ms (1) 098 -wifi_scan
+         +22m47s780ms (1) 098 +wifi_scan
+         +22m50s173ms (1) 098 -wifi_scan
+         +23m05s809ms (1) 098 +wifi_scan
+         +23m08s204ms (1) 098 -wifi_scan
+         +23m18s094ms (1) 098 +wifi_scan
+         +23m20s507ms (1) 098 -wifi_scan
+         +23m23s818ms (1) 098 +wifi_scan
+         +23m26s222ms (1) 098 -wifi_scan
+         +23m41s842ms (1) 098 +wifi_scan
+         +23m44s232ms (1) 098 -wifi_scan
+         +23m54s431ms (1) 098 +wifi_scan
+         +23m56s813ms (1) 098 -wifi_scan
+         +23m59s849ms (1) 098 +wifi_scan
+         +24m02s257ms (1) 098 -wifi_scan
+         +24m15s163ms (1) 098 +wifi_scan
+         +24m17s567ms (1) 098 -wifi_scan
+         +24m17s846ms (1) 098 +wifi_scan
+         +24m20s260ms (1) 098 -wifi_scan
+         +24m25s181ms (1) 098 wifi_signal_strength=2
+         +24m26s293ms (1) 098 wifi_suppl=associated
+         +24m26s426ms (1) 098 wifi_suppl=4-way-handshake
+         +24m26s533ms (1) 098 wifi_suppl=group-handshake
+         +24m26s556ms (1) 098 wifi_suppl=completed
+         +24m28s201ms (2) 098 wifi_signal_strength=3 +job=<uid>:"<redacted>"
+         +24m28s398ms (2) 098 -job=<uid>:"<redacted>"
+         +24m35s852ms (1) 098 +wifi_scan
+         +24m37s714ms (2) 098 pkgactive=<uid>:"<redacted>"
+         +24m37s727ms (2) 098 -wifi_scan pkgactive=<uid>:"<redacted>"
+         +24m38s412ms (1) 098 +wifi_scan
+         +24m40s894ms (1) 098 -wifi_scan gps_signal_quality=good
+         +24m53s892ms (1) 098 +wifi_scan
+         +24m56s364ms (1) 098 -wifi_scan
+         +25m03s796ms (1) 098 gps_signal_quality=poor
+         +25m06s792ms (1) 098 gps_signal_quality=good
+         +25m11s917ms (1) 098 +wifi_scan
+         +25m14s393ms (1) 098 -wifi_scan
+         +25m16s614ms (1) 098 +wifi_scan wifi_signal_strength=2
+         +25m19s205ms (1) 098 -wifi_scan
+         +25m26s795ms (1) 098 gps_signal_quality=poor
+         +25m29s941ms (1) 098 +wifi_scan
+         +25m32s415ms (1) 098 -wifi_scan
+         +25m38s587ms (1) 098 +wifi_scan
+         +25m40s556ms (2) 098 -wifi_scan pkgactive=<uid>:"<redacted>"
+         +25m47s800ms (1) 098 +wifi_scan gps_signal_quality=good
+         +25m50s455ms (1) 098 -wifi_scan
+         +25m58s103ms (1) 098 +wifi_scan
+         +26m00s573ms (1) 098 -wifi_scan
+         +26m03s137ms (2) 097 charge=272
+                 Details: cpu=195740u+120250s
+                          /proc/stat=197540 usr, 110940 sys, 430 io, 0 irq, 2350 sirq, 2079360 idle (<pkg>% of 6h 38m 26s 200ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+         +26m03s140ms (2) 097 stats=0:"<redacted>"
+         +26m05s970ms (1) 097 +wifi_scan
+         +26m08s454ms (1) 097 -wifi_scan
+         +26m13s415ms (1) 097 +wifi_scan
+         +26m15s899ms (1) 097 -wifi_scan
+         +26m19s797ms (1) 097 gps_signal_quality=poor
+         +26m23s983ms (1) 097 +wifi_scan
+         +26m26s447ms (1) 097 -wifi_scan wifi_signal_strength=3
+         +26m31s804ms (1) 097 wifi_signal_strength=2 gps_signal_quality=good
+         +26m34s603ms (1) 097 +wifi_scan
+         +26m37s085ms (1) 097 -wifi_scan
+         +26m38s324ms (1) 097 wifi_signal_strength=3
+         +26m41s361ms (1) 097 +wifi_scan wifi_signal_strength=2
+         +26m44s379ms (1) 097 -wifi_scan wifi_signal_strength=3
+         +26m55s852ms (2) 097 +job=<uid>:"<redacted>"
+         +26m56s142ms (2) 097 +wifi_scan -job=<uid>:"<redacted>"
+         +26m58s901ms (1) 097 -wifi_scan gps_signal_quality=poor
+         +27m00s013ms (1) 097 +wifi_scan
+         +27m02s515ms (1) 097 -wifi_scan
+         +27m05s527ms (1) 097 wifi_signal_strength=2
+         +27m17s301ms (1) 097 +wifi_scan
+         +27m19s798ms (1) 097 -wifi_scan
+         +27m19s829ms (1) 097 +wifi_scan wifi_signal_strength=3
+         +27m22s329ms (1) 097 -wifi_scan
+         +27m27s810ms (1) 097 gps_signal_quality=good
+         +27m36s076ms (1) 097 +wifi_scan
+         +27m38s549ms (1) 097 -wifi_scan
+         +27m50s800ms (1) 097 gps_signal_quality=poor
+         +27m54s085ms (1) 097 +wifi_scan
+         +27m56s566ms (1) 097 -wifi_scan
+         +28m06s798ms (1) 097 gps_signal_quality=good
+         +28m12s126ms (1) 097 +wifi_scan
+         +28m14s603ms (1) 097 -wifi_scan
+         +28m18s293ms (1) 097 +wifi_scan wifi_signal_strength=2
+         +28m21s325ms (1) 097 -wifi_scan wifi_signal_strength=3
+         +28m26s618ms (1) 097 wifi_signal_strength=2
+         +28m28s792ms (1) 097 gps_signal_quality=poor
+         +28m30s147ms (1) 097 +wifi_scan
+         +28m32s622ms (1) 097 -wifi_scan
+         +28m33s812ms (2) 097 wifi_signal_strength=3 pkgactive=<uid>:"<redacted>"
+         +28m38s064ms (1) 097 +wifi_scan
+         +28m40s565ms (1) 097 -wifi_scan
+         +28m42s515ms (1) 097 +wifi_scan wifi_signal_strength=2
+         +28m45s289ms (1) 097 -wifi_scan
+         +28m48s164ms (1) 097 +wifi_scan
+         +28m50s662ms (1) 097 -wifi_scan
+         +28m59s807ms (1) 097 gps_signal_quality=good
+         +29m03s651ms (1) 097 +wifi_scan
+         +29m06s136ms (1) 097 -wifi_scan
+         +29m06s204ms (1) 097 +wifi_scan wifi_signal_strength=3
+         +29m08s675ms (1) 097 -wifi_scan
+         +29m12s789ms (1) 097 wifi_signal_strength=2
+         +29m18s091ms (1) 097 +wifi_scan
+         +29m20s531ms (1) 097 -wifi_scan
+         +29m23s800ms (1) 097 +wifi_scan gps_signal_quality=poor
+         +29m26s709ms (1) 097 -wifi_scan
+         +29m42s256ms (1) 097 +wifi_scan
+         +29m44s726ms (1) 097 -wifi_scan
+         +29m58s098ms (1) 097 +wifi_scan
+         +30m00s560ms (1) 097 -wifi_scan
+         +30m04s327ms (1) 097 +wifi_scan
+         +30m06s799ms (1) 097 -wifi_scan
+         +30m13s335ms (1) 097 wifi_signal_strength=3
+         +30m18s293ms (1) 097 +wifi_scan
+         +30m20s727ms (1) 097 -wifi_scan
+         +30m29s837ms (1) 097 +wifi_scan
+         +30m32s301ms (1) 097 -wifi_scan
+         +30m33s801ms (1) 097 gps_signal_quality=good
+         +30m36s308ms (1) 097 +wifi_scan
+         +30m38s784ms (1) 097 -wifi_scan
+         +30m40s428ms (2) 097 pkgactive=<uid>:"<redacted>"
+         +30m41s797ms (1) 097 gps_signal_quality=poor
+         +30m50s600ms (1) 097 +wifi_scan
+         +30m53s093ms (1) 097 -wifi_scan
+         +30m54s303ms (1) 097 +wifi_scan
+         +30m56s814ms (1) 097 -wifi_scan
+         +31m07s816ms (1) 097 wifi_signal_strength=2
+         +31m11s515ms (1) 097 +wifi_scan
+         +31m13s993ms (1) 097 -wifi_scan
+         +31m14s453ms (1) 097 +wifi_scan wifi_signal_strength=3
+         +31m17s353ms (1) 097 -wifi_scan
+         +31m19s902ms (1) 097 wifi_signal_strength=2
+         +31m30s375ms (1) 097 +wifi_scan
+         +31m32s819ms (1) 097 -wifi_scan
+         +31m41s058ms (2) 096 temp=250 charge=306
+                 Details: cpu=192000u+132400s
+                          /proc/stat=193450 usr, 121500 sys, 1200 io, 0 irq, 4440 sirq, 2063420 idle (<pkg>% of 6h 37m 20s 100ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+         +31m41s061ms (2) 096 stats=0:"<redacted>"
+         +31m48s409ms (1) 096 +wifi_scan
+         +31m50s885ms (1) 096 -wifi_scan
+         +31m56s303ms (1) 096 +wifi_scan
+         +31m58s786ms (2) 096 -wifi_scan pkgactive=<uid>:"<redacted>"
+         +32m06s428ms (1) 096 +wifi_scan
+         +32m08s882ms (1) 096 -wifi_scan
+         +32m24s449ms (1) 096 +wifi_scan
+         +32m26s802ms (1) 096 -wifi_scan wifi_signal_strength=3
+         +32m29s524ms (1) 096 wifi_signal_strength=2
+         +32m32s907ms (2) 096 pkgactive=<uid>:"<redacted>"
+         +32m32s907ms (2) 096 pkgactive=<uid>:"<redacted>"
+         +32m33s020ms (2) 096 pkgactive=<uid>:"<redacted>"
+         +32m34s027ms (1) 096 +wifi_scan
+         +32m36s495ms (1) 096 -wifi_scan
+         +32m42s464ms (1) 096 +wifi_scan
+         +32m44s917ms (1) 096 -wifi_scan
+         +32m46s800ms (1) 096 gps_signal_quality=good
+         +32m55s057ms (1) 096 +wifi_scan
+         +32m57s531ms (1) 096 -wifi_scan
+         +33m00s470ms (1) 096 +wifi_scan
+         +33m02s954ms (1) 096 -wifi_scan
+         +33m09s801ms (1) 096 gps_signal_quality=poor
+         +33m15s931ms (1) 096 +wifi_scan
+         +33m18s397ms (1) 096 -wifi_scan
+         +33m18s425ms (1) 096 +wifi_scan
+         +33m20s885ms (1) 096 -wifi_scan wifi_signal_strength=3
+         +33m22s838ms (1) 096 wifi_signal_strength=2
+         +33m36s539ms (1) 096 +wifi_scan
+         +33m37s804ms (1) 096 gps_signal_quality=good
+         +33m38s990ms (1) 096 -wifi_scan
+         +33m52s801ms (1) 096 gps_signal_quality=poor
+         +33m54s558ms (1) 096 +wifi_scan
+         +33m57s009ms (1) 096 -wifi_scan
+         +34m00s442ms (1) 096 +wifi_scan
+         +34m02s895ms (1) 096 -wifi_scan wifi_signal_strength=3
+         +34m06s393ms (1) 096 wifi_signal_strength=2
+         +34m12s574ms (1) 096 +wifi_scan
+         +34m15s088ms (1) 096 -wifi_scan
+         +34m17s796ms (1) 096 gps_signal_quality=good
+         +34m30s610ms (1) 096 +wifi_scan
+         +34m33s096ms (1) 096 -wifi_scan
+         +34m38s086ms (1) 096 +wifi_scan
+         +34m40s563ms (1) 096 -wifi_scan gps_signal_quality=poor
+         +34m48s633ms (1) 096 +wifi_scan
+         +34m51s095ms (1) 096 -wifi_scan
+         +34m52s279ms (2) 096 pkgactive=<uid>:"<redacted>"
+         +35m01s238ms (1) 096 +wifi_scan
+         +35m03s739ms (1) 096 -wifi_scan
+         +35m06s636ms (1) 096 +wifi_scan
+         +35m07s785ms (1) 096 gps_signal_quality=good
+         +35m09s119ms (1) 096 -wifi_scan
+         +35m18s090ms (1) 096 +wifi_scan
+         +35m20s555ms (1) 096 -wifi_scan
+         +35m22s794ms (1) 096 +wifi_scan gps_signal_quality=poor
+         +35m25s549ms (1) 096 -wifi_scan
+         +35m25s585ms (1) 096 +wifi_scan
+         +35m28s030ms (1) 096 -wifi_scan wifi_signal_strength=3
+         +35m30s952ms (1) 096 wifi_signal_strength=2
+         +35m42s690ms (1) 096 +wifi_scan
+         +35m45s155ms (1) 096 -wifi_scan
+         +35m46s802ms (1) 096 gps_signal_quality=good
+         +35m55s350ms (1) 096 +wifi_scan wifi_signal_strength=1
+         +35m57s903ms (1) 096 -wifi_scan wifi_signal_strength=3
+         +36m00s705ms (1) 096 +wifi_scan wifi_signal_strength=2
+         +36m03s170ms (1) 096 -wifi_scan gps_signal_quality=poor
+         +36m04s503ms (1) 096 +wifi_scan
+         +36m06s974ms (1) 096 -wifi_scan
+         +36m18s726ms (1) 096 +wifi_scan wifi_signal_strength=3
+         +36m21s175ms (1) 096 -wifi_scan
+         +36m22s590ms (1) 096 wifi_signal_strength=2
+         +36m26s993ms (1) 096 wifi_signal_strength=3
+         +36m36s762ms (1) 096 +wifi_scan
+         +36m39s219ms (1) 096 -wifi_scan
+         +36m46s084ms (1) 096 +wifi_scan wifi_signal_strength=2
+         +36m48s536ms (1) 096 -wifi_scan
+         +36m54s782ms (1) 096 +wifi_scan
+         +36m57s274ms (1) 096 -wifi_scan
+         +37m07s021ms (1) 096 +wifi_scan wifi_signal_strength=3
+         +37m09s009ms (2) 096 -wifi_scan stats=0:"<redacted>"
+         +37m12s803ms (1) 096 +wifi_scan
+         +37m15s275ms (1) 096 -wifi_scan
+         +37m18s108ms (1) 096 +wifi_scan
+         +37m20s574ms (1) 096 -wifi_scan
+         +37m23s053ms (1) 096 wifi_signal_strength=2
+         +37m28s691ms (1) 096 +wifi_scan
+         +37m31s035ms (1) 096 -wifi_scan wifi_signal_strength=3
+         +37m31s171ms (1) 096 +wifi_scan
+         +37m33s639ms (1) 096 -wifi_scan
+         +37m37s797ms (1) 096 wifi_signal_strength=2 gps_signal_quality=good
+         +37m46s794ms (1) 096 gps_signal_quality=poor
+         +37m47s793ms (1) 096 gps_signal_quality=good
+         +37m48s838ms (1) 096 +wifi_scan
+         +37m49s691ms (2) 095 volt=4036 charge=343
+                 Details: cpu=346950u+253480s
+                          /proc/stat=363310 usr, 236400 sys, 950 io, 0 irq, 7510 sirq, 4175820 idle (<pkg>% of 13h 17m 19s 900ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+         +37m49s693ms (2) 095 gps_signal_quality=poor stats=0:"<redacted>"
+         +37m51s320ms (1) 095 -wifi_scan
+         +37m56s366ms (1) 095 wifi_signal_strength=3
+         +37m57s522ms (2) 095 +wifi_scan pkgactive=<uid>:"<redacted>"
+         +38m00s537ms (1) 095 -wifi_scan
+         +38m06s854ms (1) 095 +wifi_scan
+         +38m09s325ms (1) 095 -wifi_scan
+         +38m24s878ms (1) 095 +wifi_scan gps_signal_quality=good
+         +38m26s679ms (1) 095 -wifi_scan wifi_signal_strength=2
+         +38m31s797ms (1) 095 gps_signal_quality=poor
+         +38m38s099ms (1) 095 +wifi_scan wifi_signal_strength=3
+         +38m40s555ms (1) 095 -wifi_scan
+         +38m42s893ms (1) 095 +wifi_scan
+         +38m45s377ms (1) 095 -wifi_scan
+         +38m47s861ms (1) 095 wifi_signal_strength=2
+         +38m51s090ms (1) 095 wifi_signal_strength=3
+         +38m52s435ms (1) 095 +wifi_scan
+         +38m54s896ms (1) 095 -wifi_scan
+         +38m56s943ms (1) 095 wifi_signal_strength=2
+         +38m59s987ms (1) 095 +wifi_scan wifi_signal_strength=3
+         +39m03s378ms (1) 095 -wifi_scan
+         +39m06s043ms (1) 095 wifi_signal_strength=2
+         +39m13s542ms (1) 095 +wifi_scan
+         +39m15s101ms (1) 095 -wifi_scan wifi_signal_strength=3
+         +39m18s179ms (1) 095 +wifi_scan wifi_signal_strength=2
+         +39m21s402ms (1) 095 -wifi_scan
+         +39m34s347ms (1) 095 +wifi_scan
+         +39m36s811ms (1) 095 -wifi_scan
+         +39m36s929ms (1) 095 +wifi_scan
+         +39m39s117ms (1) 095 -wifi_scan wifi_signal_strength=3
+         +39m42s387ms (1) 095 wifi_signal_strength=2
+         +39m53s787ms (1) 095 +wifi_scan gps_signal_quality=good
+         +39m54s795ms (1) 095 gps_signal_quality=poor
+         +39m57s150ms (1) 095 -wifi_scan
+         +39m57s184ms (1) 095 +wifi_scan wifi_signal_strength=3
+         +39m59s683ms (1) 095 -wifi_scan
+         +40m05s793ms (1) 095 gps_signal_quality=good
+         +40m09s786ms (1) 095 gps_signal_quality=poor
+         +40m12s984ms (1) 095 +wifi_scan
+         +40m15s484ms (1) 095 -wifi_scan
+         +40m18s740ms (1) 095 wifi_signal_strength=2
+         +40m27s160ms (1) 095 wifi_signal_strength=3
+         +40m27s831ms (1) 095 wifi_signal_strength=2
+         +40m30s853ms (1) 095 +wifi_scan wifi_signal_strength=3
+         +40m33s472ms (1) 095 -wifi_scan
+         +40m36s794ms (1) 095 gps_signal_quality=good
+         +40m49s002ms (1) 095 +wifi_scan wifi_signal_strength=2
+         +40m51s147ms (1) 095 -wifi_scan wifi_signal_strength=3
+         +40m56s165ms (1) 095 +wifi_scan
+         +40m57s801ms (1) 095 -wifi_scan gps_signal_quality=poor
+         +41m04s148ms (1) 095 wifi_signal_strength=2
+         +41m07s059ms (1) 095 +wifi_scan wifi_signal_strength=3
+         +41m09s536ms (1) 095 -wifi_scan
+         +41m12s727ms (2) 095 +job=<uid>:"<redacted>"
+         +41m12s728ms (2) 095 +job=<uid>:"<redacted>"
+         +41m13s020ms (2) 095 -top=<uid>:"<redacted>"
+         +41m13s020ms (2) 095 +top=<uid>:"<redacted>"
+         +41m13s056ms (2) 095 pkgactive=<uid>:"<redacted>"
+         +41m13s127ms (3) 095 -gps -audio -longwake=<uid>:"<redacted>"
+         +41m14s654ms (2) 095 -top=<uid>:"<redacted>"
+         +41m14s654ms (2) 095 +top=1000:"<redacted>"
+         +41m14s885ms (2) 095 -job=<uid>:"<redacted>"
+         +41m14s932ms (2) 095 -job=<uid>:"<redacted>"
+         +41m23s172ms (2) 095 wifi_signal_strength=2 stats=0:"<redacted>"
+         +41m23s455ms (4) 095 status=charging plug=usb volt=3943 charge=367 +plugged +charging +job=<uid>:"<redacted>"
+         +41m23s654ms (2) 095 +job=<uid>:"<redacted>"
+         +41m23s743ms (2) 095 +usb_data -job=<uid>:"<redacted>"
+         +41m24s377ms (2) 095 pkgactive=<uid>:"<redacted>"
+         +41m24s443ms (2) 095 -job=<uid>:"<redacted>"
+         +41m31s324ms (1) 095 wifi_signal_strength=3
+         +41m45s347ms (2) 095 stats=0:"<redacted>"
+
+Total cpu time reads: 874
+Batched cpu time reads: 3281
+Batching Duration (min): 904
+All UID cpu time reads since the later of device start or stats reset: 60
+UIDs removed since the later of device start or stats reset: 1

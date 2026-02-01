@@ -1,0 +1,264 @@
+﻿Battery History (1% used, 6376 used of 512KB, 45 strings using 3124):
+                    0 (10) RESET:TIME: 2026-01-31-13-23-04
+                    0 (2) 095 status=discharging health=good plug=none temp=250 volt=4304 charge=331 +running +wake_lock +wifi_radio +phone_scanning +screen phone_state=out brightness=dim +wifi_running +wifi +usb_data wifi_signal_strength=2 wifi_suppl=completed +ble_scan top=1000:"<redacted>"
+                    0 (2) 095 user=0:"<redacted>"
+                    0 (2) 095 userfg=0:"<redacted>"
+                +10ms (2) 095 -usb_data stats=0:"<redacted>"
+             +1s341ms (1) 095 wifi_signal_strength=3
+             +5s511ms (2) 095 -top=1000:"<redacted>"
+             +5s511ms (2) 095 +top=<uid>:"<redacted>"
+             +7s426ms (2) 095 wifi_signal_strength=2 pkgactive=<uid>:"<redacted>"
+             +8s905ms (2) 095 brightness=medium
+             +9s029ms (2) 095 brightness=light
+            +12s026ms (2) 095 -top=<uid>:"<redacted>"
+            +12s026ms (2) 095 +top=<uid>:"<redacted>"
+            +12s152ms (2) 095 pkgactive=<uid>:"<redacted>"
+            +12s281ms (2) 095 pkgactive=<uid>:"<redacted>"
+            +15s064ms (2) 095 +audio +video
+            +19s684ms (2) 095 -audio -video
+            +21s344ms (2) 095 +audio
+            +22s500ms (1) 095 wifi_signal_strength=3
+            +28s621ms (1) 095 wifi_signal_strength=1
+            +31s673ms (1) 095 wifi_signal_strength=2
+            +37s778ms (1) 095 wifi_signal_strength=3
+            +40s800ms (1) 095 wifi_signal_strength=2
+            +49s193ms (2) 095 pkgactive=<uid>:"<redacted>"
+          +1m17s794ms (1) 095 wifi_signal_strength=3
+          +1m21s346ms (2) 095 +longwake=<uid>:"<redacted>"
+          +1m51s697ms (2) 095 temp=280 volt=3967 charge=358
+          +2m28s000ms (2) 095 pkgactive=<uid>:"<redacted>"
+          +2m42s394ms (2) 094 volt=3944 charge=370
+                 Details: cpu=1640u+1720s
+                          /proc/stat=1540 usr, 1400 sys, 30 io, 0 irq, 10 sirq, 136480 idle (<pkg>% of 23m 14s 600ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+          +2m42s414ms (2) 094 stats=0:"<redacted>"
+          +3m14s128ms (3) 094 -audio -longwake=<uid>:"<redacted>"
+          +3m14s180ms (2) 094 -top=<uid>:"<redacted>"
+          +3m14s180ms (2) 094 +top=1000:"<redacted>"
+          +3m14s297ms (2) 094 pkgactive=<uid>:"<redacted>"
+          +3m14s423ms (2) 094 pkgactive=<uid>:"<redacted>"
+          +3m42s467ms (2) 094 volt=4047 charge=381
+          +3m56s151ms (2) 094 pkgactive=<uid>:"<redacted>"
+          +4m04s038ms (1) 094 wifi_signal_strength=2
+          +4m05s911ms (1) 094 wifi_signal_strength=3
+          +4m07s637ms (2) 094 -top=1000:"<redacted>"
+          +4m07s637ms (2) 094 +top=<uid>:"<redacted>"
+          +4m07s702ms (2) 094 pkgactive=<uid>:"<redacted>"
+          +4m25s889ms (2) 094 -top=<uid>:"<redacted>"
+          +4m25s889ms (2) 094 +top=<uid>:"<redacted>"
+          +4m27s921ms (2) 094 pkgactive=<uid>:"<redacted>"
+          +4m34s149ms (2) 094 +job=<uid>:"<redacted>"
+          +4m34s169ms (2) 094 -job=<uid>:"<redacted>"
+          +5m14s276ms (2) 094 pkgactive=<uid>:"<redacted>"
+          +5m14s842ms (2) 094 +tmpwhitelist=<uid>:"<redacted>"
+          +5m17s934ms (2) 094 +job=<uid>:"<redacted>"
+          +5m17s936ms (2) 094 +job=<uid>:"<redacted>"
+          +5m18s977ms (2) 094 -job=<uid>:"<redacted>"
+          +5m23s649ms (2) 094 -job=<uid>:"<redacted>"
+          +5m31s244ms (3) 094 temp=300 volt=3789 charge=413 stats=0:"<redacted>"
+          +5m31s884ms (2) 094 -tmpwhitelist=<uid>:"<redacted>"
+          +5m32s049ms (2) 094 pkginst=u11020a103:"<redacted>"
+          +5m32s052ms (2) 094 pkginst=u11020a103:"<redacted>"
+          +5m32s052ms (2) 094 pkginst=u11020a103:"<redacted>"
+          +5m32s090ms (2) 094 +tmpwhitelist=1000:"<redacted>"
+          +5m32s374ms (2) 094 stats=0:"<redacted>"
+          +5m47s183ms (2) 094 +job=<uid>:"<redacted>"
+          +5m47s265ms (2) 094 -job=<uid>:"<redacted>"
+          +6m02s138ms (2) 094 -tmpwhitelist=1000:"<redacted>"
+          +6m31s297ms (2) 094 temp=290 volt=3971 charge=425
+          +6m42s856ms (2) 094 -top=<uid>:"<redacted>"
+          +6m42s856ms (2) 094 +wifi_scan +top=<uid>:"<redacted>"
+          +6m45s099ms (2) 094 -top=<uid>:"<redacted>"
+          +6m45s099ms (2) 094 +top=<uid>:"<redacted>"
+          +6m45s229ms (2) 094 -wifi_scan pkgactive=<uid>:"<redacted>"
+          +6m48s492ms (2) 094 +audio +video
+          +6m53s151ms (2) 094 -audio -video
+          +6m54s899ms (2) 094 +audio
+          +7m18s878ms (2) 093 charge=436
+                 Details: cpu=199280u+169670s
+                          /proc/stat=404410 usr, 165170 sys, 15930 io, 0 irq, 52190 sirq, 1156260 idle (<pkg>% of 4h 58m 59s 600ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+          +7m18s888ms (2) 093 stats=0:"<redacted>"
+          +7m28s706ms (2) 093 pkgactive=<uid>:"<redacted>"
+          +7m54s900ms (2) 093 +longwake=<uid>:"<redacted>"
+          +8m30s595ms (2) 093 volt=3923 charge=448
+          +9m30s662ms (2) 093 temp=310 charge=462
+          +9m40s522ms (1) 093 +wifi_scan
+          +9m43s087ms (2) 093 -wifi_scan pkgactive=<uid>:"<redacted>"
+          +9m52s472ms (2) 092 temp=300 charge=467
+                 Details: cpu=274340u+233080s
+                          /proc/stat=345810 usr, 216170 sys, 145900 io, 0 irq, 36970 sirq, 1561780 idle (<pkg>% of 6h 24m 26s 300ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+          +9m52s475ms (2) 092 stats=0:"<redacted>"
+         +11m06s523ms (2) 092 temp=310 charge=483
+         +12m06s590ms (1) 092 charge=496
+         +12m26s083ms (2) 091 charge=501
+                 Details: cpu=72130u+79450s
+                          /proc/stat=65300 usr, 47620 sys, 2540 io, 0 irq, 28250 sirq, 268560 idle (<pkg>% of 1h 8m 42s 700ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+         +12m26s088ms (2) 091 stats=0:"<redacted>"
+         +13m26s138ms (1) 091 charge=514
+         +14m18s712ms (2) 090 temp=320 charge=527
+                 Details: cpu=312680u+356550s
+                          /proc/stat=301690 usr, 219770 sys, 23910 io, 0 irq, 130710 sirq, 1086490 idle (<pkg>% of 4h 53m 45s 700ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+         +14m18s715ms (2) 090 stats=0:"<redacted>"
+         +14m50s091ms (1) 090 wifi_suppl=group-handshake
+         +14m50s093ms (1) 090 wifi_suppl=completed
+         +15m18s770ms (2) 090 temp=330 volt=3897 charge=541
+         +16m02s642ms (2) 090 -wifi_radio stats=0:"<redacted>"
+         +16m07s365ms (2) 090 +wifi_radio wakeupap=1000:"<redacted>"
+         +16m07s384ms (2) 090 stats=0:"<redacted>"
+         +16m35s945ms (3) 090 -audio -longwake=<uid>:"<redacted>"
+         +16m39s766ms (2) 090 +audio +video
+         +16m44s368ms (2) 090 -audio -video
+         +16m46s654ms (2) 090 +audio
+         +16m51s172ms (1) 090 wifi_signal_strength=2
+         +16m52s302ms (2) 089 volt=3941 charge=561
+                 Details: cpu=25140u+28280s
+                          /proc/stat=22920 usr, 16660 sys, 3020 io, 0 irq, 11040 sirq, 116850 idle (<pkg>% of 28m 24s 900ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+         +16m52s304ms (2) 089 stats=0:"<redacted>"
+         +16m52s663ms (2) 089 +wifi_scan pkgactive=<uid>:"<redacted>"
+         +16m54s208ms (1) 089 wifi_signal_strength=3
+         +16m55s720ms (1) 089 -wifi_scan
+         +17m46s655ms (2) 089 +longwake=<uid>:"<redacted>"
+         +17m55s610ms (2) 089 stats=0:"<redacted>"
+         +18m55s192ms (2) 088 temp=340 volt=3906 charge=591
+                 Details: cpu=103790u+98450s
+                          /proc/stat=205310 usr, 120740 sys, 66130 io, 0 irq, 29610 sirq, 725660 idle (<pkg>% of 3h 11m 14s 500ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+         +18m55s204ms (2) 088 stats=0:"<redacted>"
+         +19m55s261ms (1) 088 charge=605
+         +20m08s661ms (2) 088 pkgactive=<uid>:"<redacted>"
+         +21m12s152ms (2) 088 temp=350 charge=625
+         +21m28s792ms (2) 087 charge=629
+                 Details: cpu=281780u+223380s
+                          /proc/stat=282820 usr, 155010 sys, 7490 io, 0 irq, 68290 sirq, 411740 idle (<pkg>% of 2h 34m 13s 500ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+         +21m28s800ms (2) 087 stats=0:"<redacted>"
+         +21m56s651ms (2) 087 +job=<uid>:"<redacted>"
+         +21m56s758ms (2) 087 -job=<uid>:"<redacted>"
+         +22m28s864ms (2) 087 volt=3929 charge=643
+         +23m19s605ms (2) 087 stats=0:"<redacted>"
+         +23m28s926ms (2) 087 volt=3892 charge=658
+         +23m52s154ms (2) 086 charge=664
+                 Details: cpu=613680u+690130s
+                          /proc/stat=606280 usr, 464190 sys, 46740 io, 0 irq, 220370 sirq, 838780 idle (<pkg>% of 6h 2m 43s 600ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+         +23m52s161ms (2) 086 stats=0:"<redacted>"
+         +24m14s655ms (1) 086 wifi_signal_strength=2
+         +24m22s946ms (1) 086 wifi_signal_strength=3
+         +24m30s959ms (1) 086 wifi_signal_strength=2
+         +24m45s726ms (2) 086 stats=0:"<redacted>"
+         +25m45s567ms (2) 086 temp=360 charge=698
+         +26m05s265ms (2) 085 volt=3812 charge=704
+                 Details: cpu=12160u+13970s
+                          /proc/stat=11760 usr, 8740 sys, 1370 io, 0 irq, 5050 sirq, 12120 idle (<pkg>% of 6m 30s 400ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+         +26m05s267ms (2) 085 stats=0:"<redacted>"
+         +26m07s045ms (1) 085 wifi_signal_strength=3
+         +26m35s908ms (2) 085 pkgactive=<uid>:"<redacted>"
+         +26m37s026ms (1) 085 wifi_signal_strength=2
+         +26m55s191ms (1) 085 wifi_signal_strength=3
+         +27m06s708ms (2) 084 temp=370 charge=731
+                 Details: cpu=300110u+239420s
+                          /proc/stat=301090 usr, 176330 sys, 38750 io, 0 irq, 63900 sirq, 418560 idle (<pkg>% of 2h 46m 26s 300ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+         +27m06s713ms (2) 084 stats=0:"<redacted>"
+         +28m06s813ms (2) 084 volt=3854 charge=750
+         +29m06s871ms (2) 084 temp=380 volt=3814 charge=771
+         +29m19s835ms (2) 083 temp=370 volt=3791 charge=775
+                 Details: cpu=416310u+362250s
+                          /proc/stat=422290 usr, 249840 sys, 44250 io, 0 irq, 114180 sirq, 457720 idle (<pkg>% of 3h 34m 42s 800ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+         +29m19s858ms (2) 083 stats=0:"<redacted>"
+         +30m19s900ms (2) 083 volt=3859 charge=796
+         +31m19s944ms (1) 083 charge=813
+         +31m22s727ms (2) 082
+                 Details: cpu=61010u+55270s
+                          /proc/stat=58900 usr, 34040 sys, 4470 io, 0 irq, 21150 sirq, 63230 idle (<pkg>% of 30m 17s 900ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+         +31m22s802ms (2) 082 stats=0:"<redacted>"
+         +32m22s790ms (1) 082 charge=830
+         +32m55s443ms (1) 082 wifi_signal_strength=2
+         +32m56s776ms (2) 082 pkgactive=<uid>:"<redacted>"
+         +33m03s436ms (1) 082 wifi_signal_strength=3
+         +33m26s095ms (1) 082 wifi_signal_strength=2
+         +33m29s796ms (1) 082 -wifi
+         +33m29s802ms (1) 082 -wifi_running +wifi
+         +33m30s824ms (2) 082 -wifi_radio conn=1:"<redacted>"
+         +33m31s953ms (1) 082 -wifi
+         +33m31s953ms (2) 082 +wifi stats=0:"<redacted>"
+         +33m33s766ms (2) 082 +wifi_scan +wifi_running wifi_suppl=disconn stats=0:"<redacted>"
+         +33m33s896ms (2) 082 -wifi_scan stats=0:"<redacted>"
+         +33m35s341ms (1) 082 +wifi_scan
+         +33m36s764ms (1) 082 -wifi_scan wifi_signal_strength=3 wifi_suppl=associating
+         +33m37s711ms (1) 082 wifi_suppl=associated
+         +33m38s770ms (1) 082 wifi_suppl=4-way-handshake
+         +33m38s788ms (1) 082 wifi_signal_strength=2 wifi_suppl=group-handshake
+         +33m39s304ms (2) 082 +wifi_radio wifi_suppl=completed stats=0:"<redacted>"
+         +33m40s125ms (2) 082 stats=0:"<redacted>"
+         +33m40s280ms (2) 082 conn=1:"<redacted>"
+         +33m41s461ms (2) 082 pkgactive=<uid>:"<redacted>"
+         +33m41s861ms (2) 082 +job=<uid>:"<redacted>"
+         +33m42s034ms (2) 082 -job=<uid>:"<redacted>"
+         +34m16s797ms (2) 081 temp=380 volt=3808 charge=859
+                 Details: cpu=695820u+456630s
+                          /proc/stat=683780 usr, 331750 sys, 61220 io, 0 irq, 114100 sirq, 882870 idle (<pkg>% of 5h 45m 37s 200ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+         +34m16s851ms (2) 081 stats=0:"<redacted>"
+         +35m16s603ms (1) 081 wifi_signal_strength=3 wifi_suppl=associated
+         +35m16s696ms (1) 081 wifi_suppl=4-way-handshake
+         +35m16s826ms (1) 081 wifi_suppl=group-handshake
+         +35m16s831ms (1) 081 wifi_suppl=completed
+         +35m16s861ms (2) 081 temp=370 charge=880
+         +35m18s879ms (2) 081 +job=<uid>:"<redacted>"
+         +35m19s254ms (2) 081 wifi_signal_strength=2 -job=<uid>:"<redacted>"
+         +35m22s756ms (1) 081 wifi_signal_strength=3
+         +35m38s712ms (2) 080 volt=3855 charge=886
+                 Details: cpu=56640u+57330s
+                          /proc/stat=56380 usr, 34180 sys, 2380 io, 0 irq, 23470 sirq, 44770 idle (<pkg>% of 26m 51s 800ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+         +35m38s718ms (2) 080 stats=0:"<redacted>"
+         +35m43s160ms (2) 080 +job=<uid>:"<redacted>"
+         +35m43s295ms (2) 080 -job=<uid>:"<redacted>"
+         +36m11s189ms (1) 080 wifi_signal_strength=1
+         +36m12s999ms (1) 080 wifi_signal_strength=3
+         +36m38s721ms (1) 080 charge=901
+         +36m53s642ms (1) 080 +wifi_scan
+         +36m56s152ms (1) 080 -wifi_scan
+         +36m57s425ms (2) 080 pkgactive=<uid>:"<redacted>"
+         +37m05s952ms (2) 080 pkgactive=<uid>:"<redacted>"
+         +38m07s845ms (2) 080 temp=390 volt=3765 charge=928
+         +38m12s308ms (2) 079 temp=380 charge=930
+                 Details: cpu=209970u+170410s
+                          /proc/stat=211610 usr, 117300 sys, 47110 io, 0 irq, 53440 sirq, 192620 idle (<pkg>% of 1h 43m 40s 800ms), PlatformIdleStat state_1 name=DPS time=0 count=0 voter_1 name=AP time=0 count=0 voter_2 name=CP time=0 count=0 
+, SubsystemPowerState Empty
+         +38m12s314ms (2) 079 stats=0:"<redacted>"
+         +38m24s484ms (2) 079 pkgactive=<uid>:"<redacted>"
+         +38m53s821ms (2) 079 pkgactive=<uid>:"<redacted>"
+         +38m54s106ms (2) 079 -top=<uid>:"<redacted>"
+         +38m54s106ms (2) 079 +top=<uid>:"<redacted>"
+         +38m54s737ms (2) 079 pkgactive=<uid>:"<redacted>"
+         +38m55s934ms (3) 079 +gps +wifi_scan -audio -longwake=<uid>:"<redacted>"
+         +38m57s299ms (2) 079 -wifi_scan -top=<uid>:"<redacted>"
+         +38m57s813ms (2) 079 +top=1000:"<redacted>"
+         +38m59s354ms (2) 079 -gps pkgactive=<uid>:"<redacted>"
+         +39m00s821ms (1) 079 wifi_signal_strength=2
+         +39m06s927ms (2) 079 +job=<uid>:"<redacted>"
+         +39m06s967ms (2) 079 -job=<uid>:"<redacted>"
+         +39m07s349ms (2) 079 stats=0:"<redacted>"
+         +39m07s392ms (3) 079 status=charging plug=usb temp=410 volt=3790 charge=950 +plugged
+         +39m07s414ms (3) 079 volt=3693 charge=951 pkgactive=<uid>:"<redacted>"
+         +39m07s541ms (2) 079 pkgactive=<uid>:"<redacted>"
+         +39m07s845ms (2) 079 +usb_data +job=<uid>:"<redacted>"
+         +39m09s114ms (2) 079 -job=<uid>:"<redacted>"
+         +39m24s944ms (1) 079 wifi_signal_strength=3
+         +39m30s189ms (2) 079 stats=0:"<redacted>"
+
+Total cpu time reads: 940
+Batched cpu time reads: 3555
+Batching Duration (min): 946
+All UID cpu time reads since the later of device start or stats reset: 96
+UIDs removed since the later of device start or stats reset: 4

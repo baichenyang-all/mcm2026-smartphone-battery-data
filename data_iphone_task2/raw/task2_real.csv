@@ -1,0 +1,6 @@
+scene,tte_meas_h,L,U,net,gps,N_app,T_env_c
+Standby,48,0.1,0.05,OFF,0,2,25
+Video,4,0.8,0.35,WiFi,0,3,25
+Gaming,2.5,0.9,0.7,WiFi,0,2,25
+Navigation,3.5,0.6,0.4,5G,1,3,17
+Social,6,0.5,0.3,4G,0,3,25

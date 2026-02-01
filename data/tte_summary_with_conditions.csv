@@ -1,0 +1,6 @@
+scenario,name,duration_min,soc0_percent,soc_min_percent,soc_drop_percent,rate_percent_per_h,TTE_from_100_h,TTE_from_SOC0_h,rate_upper_bound_percent_per_h,TTE_lower_bound_from_100_h,activity,screen_on,brightness_percent,network,gps,cpu_load,notes
+1,Idle,40.766666666666666,100.0,100.0,0.0,,,,1.4717906786590353,67.94444444444444,Idle (screen off),0,,WiFi,no,low,lock screen idle
+2,Video (bright),28.9,100.0,96.0,4.0,8.304498269896193,12.041666666666668,12.041666666666668,,,Video bright,1,90.0,WiFi,no,med,high brightness video playback
+3,Light use (dim),40.15,100.0,99.0,1.0,1.4943960149439601,66.91666666666667,66.91666666666667,,,Light use dim,1,25.0,WiFi,no,low,browsing/reading
+4,GPS/Map,41.88333333333333,100.0,95.0,5.0,7.162753680859531,13.96111111111111,13.96111111111111,,,GPS/Map,1,50.0,WiFi(or 4G),yes,med,continuous navigation/map
+5,Gaming,39.583333333333336,95.0,79.0,16.0,24.25263157894737,4.123263888888888,3.917100694444444,,,Gaming,1,80.0,WiFi,no,high,3D gaming continuous; device warmed
